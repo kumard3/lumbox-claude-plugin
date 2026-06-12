@@ -11,5 +11,6 @@
       "source": "./",
       "description": "Email for AI agents: self-provision inboxes, receive email, wait for parsed OTP codes, send and reply. Includes the 87-tool Lumbox MCP server."
     }
-  ]
+  ],
+  "description": "Email for AI agents: self-provision inboxes, parsed OTP codes, send/reply, and the 87-tool Lumbox MCP server."
 }
