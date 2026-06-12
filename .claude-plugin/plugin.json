@@ -1,0 +1,14 @@
+{
+  "name": "lumbox",
+  "description": "Email for AI agents: self-provision inboxes, receive email, wait for parsed OTP codes, send and reply. Includes the 87-tool Lumbox MCP server (browser automation, credential vault, TOTP 2FA).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lumbox",
+    "email": "hello@lumbox.co",
+    "url": "https://lumbox.co"
+  },
+  "homepage": "https://docs.lumbox.co",
+  "repository": "https://github.com/kumard3/lumbox-claude-plugin",
+  "license": "MIT",
+  "keywords": ["email", "agents", "otp", "inbox", "mcp"]
+}

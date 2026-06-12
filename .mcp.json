@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lumbox": {
+      "command": "npx",
+      "args": ["-y", "@lumbox/mcp-server"],
+      "env": {
+        "LUMBOX_API_KEY": "${LUMBOX_API_KEY}"
+      }
+    }
+  }
+}

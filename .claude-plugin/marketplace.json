@@ -1,0 +1,15 @@
+{
+  "name": "lumbox",
+  "owner": {
+    "name": "Lumbox",
+    "email": "hello@lumbox.co",
+    "url": "https://lumbox.co"
+  },
+  "plugins": [
+    {
+      "name": "lumbox",
+      "source": "./",
+      "description": "Email for AI agents: self-provision inboxes, receive email, wait for parsed OTP codes, send and reply. Includes the 87-tool Lumbox MCP server."
+    }
+  ]
+}
