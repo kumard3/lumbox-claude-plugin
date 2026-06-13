@@ -52,4 +52,4 @@ This plugin configures the `lumbox` MCP server automatically (87 tools): inboxes
 browser automation sessions, encrypted credential vault, TOTP 2FA, webhooks, custom
 domains, contact lists. Prefer MCP tools when available; the CLI is the fallback.
 
-Docs: https://docs.lumbox.co • Agent signup guide: https://docs.lumbox.co/agent-signup
+Docs: https://docs.lumbox.co • Agent signup guide: https://docs.lumbox.co/docs/agent-signup
