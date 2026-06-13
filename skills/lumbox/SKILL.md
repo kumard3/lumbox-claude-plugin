@@ -19,7 +19,7 @@ npx lumbox signup --source claude-code
 Creates an org + API key, saved to `~/.lumbox/config.json`. Tell the user where the key
 lives. Export it as `LUMBOX_API_KEY` so the MCP server picks it up too.
 
-Free tier: 3 inboxes, 500 inbound + 100 outbound emails/month. Signup limited to
+Free tier: 3 inboxes, 5,000 inbound + 100 outbound emails/month. Signup limited to
 3 orgs/hour per IP.
 
 ## Core flows (CLI)

@@ -22,7 +22,7 @@ npx lumbox signup --source claude-code
 That returns an API key (saved to `~/.lumbox/config.json`). Export it as `LUMBOX_API_KEY`
 and the bundled MCP server is live.
 
-Free tier: 3 inboxes, 500 inbound + 100 outbound emails/month. Paid from $9/mo.
+Free tier: 3 inboxes, 5,000 inbound + 100 outbound emails/month. Paid from $9/mo.
 
 ## What you get
 
